@@ -1,4 +1,7 @@
 fastapi
 uvicorn
 httpx
+httpx2
 watchfiles
+pytest
+pytest-cov
